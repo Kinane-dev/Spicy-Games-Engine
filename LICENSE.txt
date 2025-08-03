@@ -1,0 +1,28 @@
+Spicy Games Engine – Proprietary License
+
+Copyright © 2025 Spicy Games Studio. All rights reserved.
+
+This software (the "Spicy Games Engine") is the exclusive property of Spicy Games Studio.
+
+By downloading, installing, or using this software, you agree to the following terms:
+
+1. Grant of Use:
+   You are granted a personal, non-exclusive, non-transferable license to install and use the software for creating games.
+
+2. Restrictions:
+   - You may NOT redistribute, resell, sublicense, or share the software or any part of it.
+   - You may NOT reverse-engineer, decompile, or modify the software.
+   - You may NOT claim ownership of the engine or its components.
+   - You may NOT use the software for illegal, unethical, or malicious purposes.
+
+3. Intellectual Property:
+   All rights, including intellectual property rights, belong solely to Spicy Games Studio. This includes all code, binaries, resources, and documentation.
+
+4. No Warranty:
+   This software is provided "AS IS", without warranties or guarantees of any kind. Spicy Games Studio is not liable for any damages resulting from the use or misuse of the software.
+
+5. Termination:
+   This license is terminated immediately if any of the above terms are violated. Upon termination, all copies of the software must be destroyed.
+
+For inquiries or commercial licensing, contact: spicygamesstudio@proton.me
+
